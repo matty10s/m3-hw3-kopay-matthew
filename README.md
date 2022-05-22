@@ -1,3 +1,5 @@
 # m3-hw3-kopay-matthew
 
-![Lighthouse Report](images/LighthouseAuditReport.png?raw=true "Lighthouse Audit Report)
+<p align="center">
+  <img src="images/LighthouseAuditReport.png" />
+</p>
